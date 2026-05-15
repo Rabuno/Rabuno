@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there, I'm Rabuno! 👋
 
-<!--
-**Rabuno/Rabuno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Software Developer** passionate about Backend Systems & IoT.
 
-Here are some ideas to get you started:
+### 💻 Technical Stack
+- **Languages:** .NET (C#), Java, Go, C++
+- **Interests:** Backend Architecture, Scalable Systems, IoT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✨ Current Focus
+- Building **[UGenix](https://github.com/Rabuno/UGenix)** - focus on performance and scalability.
+
+---
+*Generated with ❤️ by Gemini CLI*
