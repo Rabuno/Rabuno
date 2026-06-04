@@ -21,6 +21,7 @@ I build practical software products with clear APIs, reliable data flows, and ma
 
 ## Selected Projects
 
+- **[agentrec](https://github.com/Rabuno/agentrec)** — local-first black box recorder for AI agents. Record, replay, diff, and debug agent runs without sending traces to a SaaS.
 - **[UGenix](https://github.com/Rabuno/UGenix)** — production-style fullstack platform with .NET backend, React frontend, Docker, tests, and CI.
 - **[LaunchCart](https://github.com/Rabuno/launchcart)** — AI-assisted sales kit generator for small online sellers, built with Next.js and Express. Live: https://launchcart-gamma.vercel.app
 
